@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@drawable/dashboard"
+            android:title="dashboard" />
+        <item
+            android:id="@+id/activity"
+            android:icon="@drawable/activity"
+            android:title="activity" />
+        <item
+            android:id="@+id/tasks"
+            android:icon="@drawable/task"
+            android:title="tasks" />
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/settings"
+            android:title="setting" />
+        <item
+            android:id="@+id/Logout"
+            android:icon="@drawable/logout"
+            android:title="Lotout" />
+    </group>
+
+
+</menu>

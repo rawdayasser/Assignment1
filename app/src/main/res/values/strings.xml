@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="splash_string">this is splash String</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">user@Fci-eg.edu</string>
+    <string name="password">********</string>
+    <string name="login">Login</string>
+    <string name="creataccount">Creat New Account</string>
+</resources>
